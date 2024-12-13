@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "ad8a3a69-231d-b930-e866-6981ffae24c6",
+    "Name": "DevClassicUI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1733998029000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevClassicUI.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
